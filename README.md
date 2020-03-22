@@ -13,5 +13,5 @@ az algoritmus lényegi része (körönként a képlet szerint frissül az egyes 
   új_súly = előző_súly * e^(-s*ln((1-helyes)/helyes)) 
 
 ahol
-s: egy 0 és 1 között megválasztott szám (célszerű minél kisebb számot megadni)
+s: egy 0 és 1 között megválasztott szám (célszerű minél kisebb számot megadni) |
 helyes: a modell által helyesen megjósolt tesztadatok aránya (százalékban megadva)
