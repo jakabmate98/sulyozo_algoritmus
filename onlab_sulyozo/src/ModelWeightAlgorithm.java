@@ -31,7 +31,6 @@ public class ModelWeightAlgorithm {
         NumberFormat formatter = new DecimalFormat("#0.000");
         for(int i = 0; i < modelNumber; i++){
             System.out.print(formatter.format(weights[i]) + " ");
-           // System.out.println("lol");
         }
         System.out.print("expected: " + formatter.format(expected) +"\n");
     }
