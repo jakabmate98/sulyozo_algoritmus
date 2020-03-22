@@ -4,7 +4,7 @@ A szerver az egyes klienseket súlyozza aszerint, hogy a szerver által küldöt
 
 
 tesztadat:
-1.sor: <kliensek száma> <s> <körök száma>
+1.sor: kliensek száma, s, örök száma
 következő sorok: minden sorban a kliensek számának megfelelő oszlop leírjuk az egyes körökben elért teljesítményt százalékban
 
 tesztadat példa:
